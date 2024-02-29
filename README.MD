@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <th><b>Assignments</th>
-    <td><b>Directories</td>
+    <th><b><i>Assignments</th>
+    <td><b><i>Directories</td>
   </tr>
   <tr>
     <th>Assignment 1</th>
