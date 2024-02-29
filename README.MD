@@ -2,17 +2,53 @@
 
 ### Table of Experiments
 
-Assignment | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Dir | NA | A2 | A3 | A4 | NA | NA | NA | DataVisualization | DataVisualization | NA | NA
-
 <table>
   <tr>
-    <th>Assignments</th>
-    <td>Dir</td>
+    <th><b>Assignments</b></th>
+    <td><b>Directories</b></td>
   </tr>
   <tr>
     <th>Assignment 1</th>
-    <td>A1</td>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <th>Assignment 2</th>
+    <td>Assignment 2</td>
+  </tr>
+  <tr>
+    <th>Assignment 3</th>
+    <td>Assignment 3</td>
+  </tr>
+  <tr>
+    <th>Assignment 4</th>
+    <td>Assignment 4</td>
+  </tr>
+  <tr>
+    <th>Assignment 5</th>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <th>Assignment 6</th>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <th>Assignment 7</th>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <th>Assignment 8</th>
+    <td>Data Visualization</td>
+  </tr>
+  <tr>
+    <th>Assignment 9</th>
+    <td>Data Visualization</td>
+  </tr>
+  <tr>
+    <th>Assignment 10</th>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <th>Assignment 11</th>
+    <td>NA</td>
   </tr>
 </table>
