@@ -2,5 +2,6 @@
 
 ### Table of Experiments
 
-1. Data Wrangling on the _Titanic Dataset_
-2. Linear Regression on Boston Housing Dataset
+Assignment | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Dir | NA | A2 | A3 | A4 | NA | NA | NA | DataVisualization | DataVisualization | NA | NA
