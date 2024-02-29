@@ -1,6 +1,6 @@
 # Data Science and Big Data Analytics
 
-### Table of Experiments
+### Table of Assignments
 
 <table>
   <tr>
