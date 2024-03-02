@@ -1,4 +1,4 @@
-# Data Science and Big Data Analytics
+# Data Science and Big Data Analytics Lab
 
 ### Table of Assignments
 
