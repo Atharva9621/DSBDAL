@@ -1,4 +1,4 @@
-# Data Science and Big Data Analytics
+# Data Science and Big Data Analytics Lab
 
 ### Table of Assignments
 
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <th>Assignment 5</th>
-    <td>NA</td>
+    <td>Assignment 5</td>
   </tr>
   <tr>
     <th>Assignment 6</th>
