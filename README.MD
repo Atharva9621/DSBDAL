@@ -1,8 +1,8 @@
 # Data Science and Big Data Analytics Lab
 
-### Table of Assignments
+<!-- ### Table of Assignments -->
 
-<table>
+<!-- <table>
   <tr>
     <th><b><i>Assignments</th>
     <td><b><i>Directories</td>
@@ -51,4 +51,4 @@
     <th>Assignment 11</th>
     <td>NA</td>
   </tr>
-</table>
+</table> -->
