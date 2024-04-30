@@ -1,2 +1,2 @@
-app/** linguist-documentation=false
-app/** linguist-vendored
+BigDataAnalytics/* linguist-documentation=false
+BigDataAnalytics/* linguist-vendored
