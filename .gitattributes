@@ -1,8 +1,0 @@
-# Jupyter notebook
-
-# For text count
-
-# To ignore it use below
- *.ipynb linguist-documentation
-
-test.ipynb  text
